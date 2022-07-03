@@ -1,0 +1,6522 @@
+fileFormatVersion: 2
+guid: 1f074f530ed1b3348a0e02d4b279c8c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -131066349785411942
+    second: FIGHT_YERI_KOY_0
+  - first:
+      213: 9179426347846426190
+    second: FIGHT_YERI_KOY_1
+  - first:
+      213: 5028328354640661277
+    second: FIGHT_YERI_KOY_2
+  - first:
+      213: -3204271216015311843
+    second: FIGHT_YERI_KOY_3
+  - first:
+      213: -1143498042971270370
+    second: FIGHT_YERI_KOY_4
+  - first:
+      213: 5023875237217327854
+    second: FIGHT_YERI_KOY_5
+  - first:
+      213: 3587957917279362619
+    second: FIGHT_YERI_KOY_6
+  - first:
+      213: 4104630504722638835
+    second: FIGHT_YERI_KOY_7
+  - first:
+      213: 5462969092824994009
+    second: FIGHT_YERI_KOY_8
+  - first:
+      213: -9176733174537155580
+    second: FIGHT_YERI_KOY_9
+  - first:
+      213: 3411278983748158807
+    second: FIGHT_YERI_KOY_10
+  - first:
+      213: 8615050028101027353
+    second: FIGHT_YERI_KOY_11
+  - first:
+      213: -8846692084547649458
+    second: FIGHT_YERI_KOY_12
+  - first:
+      213: -5377859809786379240
+    second: FIGHT_YERI_KOY_13
+  - first:
+      213: 7867405641135915378
+    second: FIGHT_YERI_KOY_14
+  - first:
+      213: 481439652427740779
+    second: FIGHT_YERI_KOY_15
+  - first:
+      213: 3318110667134080598
+    second: FIGHT_YERI_KOY_16
+  - first:
+      213: 2975869510627787416
+    second: FIGHT_YERI_KOY_17
+  - first:
+      213: -6276115367661702722
+    second: FIGHT_YERI_KOY_18
+  - first:
+      213: 2830501738780462485
+    second: FIGHT_YERI_KOY_19
+  - first:
+      213: 1177569164769812334
+    second: FIGHT_YERI_KOY_20
+  - first:
+      213: 7861487865713291999
+    second: FIGHT_YERI_KOY_21
+  - first:
+      213: -793270297939305227
+    second: FIGHT_YERI_KOY_22
+  - first:
+      213: 1156824254789885976
+    second: FIGHT_YERI_KOY_23
+  - first:
+      213: -6462335668206769652
+    second: FIGHT_YERI_KOY_24
+  - first:
+      213: 5254414361387309101
+    second: FIGHT_YERI_KOY_25
+  - first:
+      213: -8857492076346638388
+    second: FIGHT_YERI_KOY_26
+  - first:
+      213: 2550345073306648677
+    second: FIGHT_YERI_KOY_27
+  - first:
+      213: -6753822538013568131
+    second: FIGHT_YERI_KOY_28
+  - first:
+      213: 8586409698013560627
+    second: FIGHT_YERI_KOY_29
+  - first:
+      213: -6956054068147410893
+    second: FIGHT_YERI_KOY_30
+  - first:
+      213: 8923740768649547892
+    second: FIGHT_YERI_KOY_31
+  - first:
+      213: -1980057614211144887
+    second: FIGHT_YERI_KOY_32
+  - first:
+      213: -4529984637979083304
+    second: FIGHT_YERI_KOY_33
+  - first:
+      213: -4353498290035931379
+    second: FIGHT_YERI_KOY_34
+  - first:
+      213: 787689234622081217
+    second: FIGHT_YERI_KOY_35
+  - first:
+      213: -2977514978401257874
+    second: FIGHT_YERI_KOY_36
+  - first:
+      213: 4988536668580770478
+    second: FIGHT_YERI_KOY_37
+  - first:
+      213: 236686649569098764
+    second: FIGHT_YERI_KOY_38
+  - first:
+      213: -4477292260252660761
+    second: FIGHT_YERI_KOY_39
+  - first:
+      213: 2558566264446273847
+    second: FIGHT_YERI_KOY_40
+  - first:
+      213: -1762366865521482319
+    second: FIGHT_YERI_KOY_41
+  - first:
+      213: -5445796937341049227
+    second: FIGHT_YERI_KOY_42
+  - first:
+      213: -7460540860494435883
+    second: FIGHT_YERI_KOY_43
+  - first:
+      213: -6212158001033651585
+    second: FIGHT_YERI_KOY_44
+  - first:
+      213: -2298271630435210436
+    second: FIGHT_YERI_KOY_45
+  - first:
+      213: 6621918894977770011
+    second: FIGHT_YERI_KOY_46
+  - first:
+      213: 290872153794680275
+    second: FIGHT_YERI_KOY_47
+  - first:
+      213: -4418273088594736795
+    second: FIGHT_YERI_KOY_48
+  - first:
+      213: 5180866930644315925
+    second: FIGHT_YERI_KOY_49
+  - first:
+      213: 1621415999814067048
+    second: FIGHT_YERI_KOY_50
+  - first:
+      213: 7347850187674775110
+    second: FIGHT_YERI_KOY_51
+  - first:
+      213: -4282188406963009544
+    second: FIGHT_YERI_KOY_52
+  - first:
+      213: 2270595514914801364
+    second: FIGHT_YERI_KOY_53
+  - first:
+      213: 8254690874303038443
+    second: FIGHT_YERI_KOY_54
+  - first:
+      213: 602083968119456467
+    second: FIGHT_YERI_KOY_55
+  - first:
+      213: -2442787536599941037
+    second: FIGHT_YERI_KOY_56
+  - first:
+      213: -6005080775211226986
+    second: FIGHT_YERI_KOY_57
+  - first:
+      213: -4272894197880754747
+    second: FIGHT_YERI_KOY_58
+  - first:
+      213: -3628550038052294687
+    second: FIGHT_YERI_KOY_59
+  - first:
+      213: 2110827983456745984
+    second: FIGHT_YERI_KOY_60
+  - first:
+      213: 6874541082193357651
+    second: FIGHT_YERI_KOY_61
+  - first:
+      213: -9114622236564224521
+    second: FIGHT_YERI_KOY_62
+  - first:
+      213: 8030622513228613867
+    second: FIGHT_YERI_KOY_63
+  - first:
+      213: -379560586291296232
+    second: FIGHT_YERI_KOY_64
+  - first:
+      213: 2849763951093204176
+    second: FIGHT_YERI_KOY_65
+  - first:
+      213: 4566188596189874
+    second: FIGHT_YERI_KOY_66
+  - first:
+      213: -2000679346273032592
+    second: FIGHT_YERI_KOY_67
+  - first:
+      213: -2393801675962705892
+    second: FIGHT_YERI_KOY_68
+  - first:
+      213: 6937759144001329611
+    second: FIGHT_YERI_KOY_69
+  - first:
+      213: 3826770015665319588
+    second: FIGHT_YERI_KOY_70
+  - first:
+      213: -8695415011468951175
+    second: FIGHT_YERI_KOY_71
+  - first:
+      213: 3067262812076517710
+    second: FIGHT_YERI_KOY_72
+  - first:
+      213: -614579242779839751
+    second: FIGHT_YERI_KOY_73
+  - first:
+      213: -5206139911640874990
+    second: FIGHT_YERI_KOY_74
+  - first:
+      213: 3679717838247076743
+    second: FIGHT_YERI_KOY_75
+  - first:
+      213: -6581517301432472041
+    second: FIGHT_YERI_KOY_76
+  - first:
+      213: 8762848884090716653
+    second: FIGHT_YERI_KOY_77
+  - first:
+      213: -1014986555602529902
+    second: FIGHT_YERI_KOY_78
+  - first:
+      213: -8937854883795931805
+    second: FIGHT_YERI_KOY_79
+  - first:
+      213: 4282210900865713108
+    second: FIGHT_YERI_KOY_80
+  - first:
+      213: -8486996295201436653
+    second: FIGHT_YERI_KOY_81
+  - first:
+      213: -8876624900976873134
+    second: FIGHT_YERI_KOY_82
+  - first:
+      213: 3607129054320390486
+    second: FIGHT_YERI_KOY_83
+  - first:
+      213: 3039462738939140607
+    second: FIGHT_YERI_KOY_84
+  - first:
+      213: -3172816342937051115
+    second: FIGHT_YERI_KOY_85
+  - first:
+      213: 4759259538324038023
+    second: FIGHT_YERI_KOY_86
+  - first:
+      213: -5241192651587354689
+    second: FIGHT_YERI_KOY_87
+  - first:
+      213: -7846280358136524670
+    second: FIGHT_YERI_KOY_88
+  - first:
+      213: -2100058384976898505
+    second: FIGHT_YERI_KOY_89
+  - first:
+      213: 1956936382219481263
+    second: FIGHT_YERI_KOY_90
+  - first:
+      213: 3675569575583256452
+    second: FIGHT_YERI_KOY_91
+  - first:
+      213: 1188346718226323314
+    second: FIGHT_YERI_KOY_92
+  - first:
+      213: -6679580089106807236
+    second: FIGHT_YERI_KOY_93
+  - first:
+      213: 4713900294337698491
+    second: FIGHT_YERI_KOY_94
+  - first:
+      213: -3358482408157754010
+    second: FIGHT_YERI_KOY_95
+  - first:
+      213: -7892407884169009727
+    second: FIGHT_YERI_KOY_96
+  - first:
+      213: 1171713978953436688
+    second: FIGHT_YERI_KOY_97
+  - first:
+      213: -4204173960831851059
+    second: FIGHT_YERI_KOY_98
+  - first:
+      213: 2492960420762172271
+    second: FIGHT_YERI_KOY_99
+  - first:
+      213: 3353647947719359872
+    second: FIGHT_YERI_KOY_100
+  - first:
+      213: 6335486819712676823
+    second: FIGHT_YERI_KOY_101
+  - first:
+      213: -1929577173659700787
+    second: FIGHT_YERI_KOY_102
+  - first:
+      213: -2855598246532837401
+    second: FIGHT_YERI_KOY_103
+  - first:
+      213: -2960309107814082202
+    second: FIGHT_YERI_KOY_104
+  - first:
+      213: 8221487548403207608
+    second: FIGHT_YERI_KOY_105
+  - first:
+      213: 2497202630573032326
+    second: FIGHT_YERI_KOY_106
+  - first:
+      213: -7062610799685126168
+    second: FIGHT_YERI_KOY_107
+  - first:
+      213: -7455097668931260617
+    second: FIGHT_YERI_KOY_108
+  - first:
+      213: -7977541358262522127
+    second: FIGHT_YERI_KOY_109
+  - first:
+      213: -4828336982736524676
+    second: FIGHT_YERI_KOY_110
+  - first:
+      213: -546248744300952874
+    second: FIGHT_YERI_KOY_111
+  - first:
+      213: 8548588107260303798
+    second: FIGHT_YERI_KOY_112
+  - first:
+      213: -6916321306513679343
+    second: FIGHT_YERI_KOY_113
+  - first:
+      213: 1561869244992268531
+    second: FIGHT_YERI_KOY_114
+  - first:
+      213: -8222861378651321838
+    second: FIGHT_YERI_KOY_115
+  - first:
+      213: 2495773760236021843
+    second: FIGHT_YERI_KOY_116
+  - first:
+      213: 42079994077062001
+    second: FIGHT_YERI_KOY_117
+  - first:
+      213: 2764601474277947711
+    second: FIGHT_YERI_KOY_118
+  - first:
+      213: -5183332845213849863
+    second: FIGHT_YERI_KOY_119
+  - first:
+      213: -3129622487687889285
+    second: FIGHT_YERI_KOY_120
+  - first:
+      213: -5826808616722008787
+    second: FIGHT_YERI_KOY_121
+  - first:
+      213: 1265023927942501793
+    second: FIGHT_YERI_KOY_122
+  - first:
+      213: 4399251277123567183
+    second: FIGHT_YERI_KOY_123
+  - first:
+      213: 2987189293182069472
+    second: FIGHT_YERI_KOY_124
+  - first:
+      213: -2991676549147986610
+    second: FIGHT_YERI_KOY_125
+  - first:
+      213: 7541875709466185747
+    second: FIGHT_YERI_KOY_126
+  - first:
+      213: 6632318489303115627
+    second: FIGHT_YERI_KOY_127
+  - first:
+      213: 8669705442098233924
+    second: FIGHT_YERI_KOY_128
+  - first:
+      213: -2415226922237903850
+    second: FIGHT_YERI_KOY_129
+  - first:
+      213: 424707617547076024
+    second: FIGHT_YERI_KOY_130
+  - first:
+      213: -6548785237416191892
+    second: FIGHT_YERI_KOY_131
+  - first:
+      213: 7199702562310917539
+    second: FIGHT_YERI_KOY_132
+  - first:
+      213: 5821233913893351887
+    second: FIGHT_YERI_KOY_133
+  - first:
+      213: -8955296083539544023
+    second: FIGHT_YERI_KOY_134
+  - first:
+      213: -1110243998933796161
+    second: FIGHT_YERI_KOY_135
+  - first:
+      213: 1263519725650261936
+    second: FIGHT_YERI_KOY_136
+  - first:
+      213: -8312643940182149034
+    second: FIGHT_YERI_KOY_137
+  - first:
+      213: 7066369996892351089
+    second: FIGHT_YERI_KOY_138
+  - first:
+      213: 8993977877558143788
+    second: FIGHT_YERI_KOY_139
+  - first:
+      213: -7510273842416053453
+    second: FIGHT_YERI_KOY_140
+  - first:
+      213: -5997311812987044251
+    second: FIGHT_YERI_KOY_141
+  - first:
+      213: 6955227887320771575
+    second: FIGHT_YERI_KOY_142
+  - first:
+      213: 3939128180257130087
+    second: FIGHT_YERI_KOY_143
+  - first:
+      213: -2385163421881168197
+    second: FIGHT_YERI_KOY_144
+  - first:
+      213: 6622064213541697496
+    second: FIGHT_YERI_KOY_145
+  - first:
+      213: -376617060313537676
+    second: FIGHT_YERI_KOY_146
+  - first:
+      213: -6953776861269152011
+    second: FIGHT_YERI_KOY_147
+  - first:
+      213: -998347614243541088
+    second: FIGHT_YERI_KOY_148
+  - first:
+      213: -5118423057378232905
+    second: FIGHT_YERI_KOY_149
+  - first:
+      213: 4425236785726833428
+    second: FIGHT_YERI_KOY_150
+  - first:
+      213: 8243800835004796736
+    second: FIGHT_YERI_KOY_151
+  - first:
+      213: -2783034970712202650
+    second: FIGHT_YERI_KOY_152
+  - first:
+      213: -1445048430697366768
+    second: FIGHT_YERI_KOY_153
+  - first:
+      213: -2854881615296256547
+    second: FIGHT_YERI_KOY_154
+  - first:
+      213: 5937146716879174963
+    second: FIGHT_YERI_KOY_155
+  - first:
+      213: -2076046493968929643
+    second: FIGHT_YERI_KOY_156
+  - first:
+      213: 6717678014989735396
+    second: FIGHT_YERI_KOY_157
+  - first:
+      213: -5645470063182027636
+    second: FIGHT_YERI_KOY_158
+  - first:
+      213: 1635078471227901629
+    second: FIGHT_YERI_KOY_159
+  - first:
+      213: 6401704764635238980
+    second: FIGHT_YERI_KOY_160
+  - first:
+      213: -5823922748641255551
+    second: FIGHT_YERI_KOY_161
+  - first:
+      213: 7904351981867451290
+    second: FIGHT_YERI_KOY_162
+  - first:
+      213: 1755209520079706954
+    second: FIGHT_YERI_KOY_163
+  - first:
+      213: -5904564555219043258
+    second: FIGHT_YERI_KOY_164
+  - first:
+      213: -2353037383644194094
+    second: FIGHT_YERI_KOY_165
+  - first:
+      213: -4852947015482278027
+    second: FIGHT_YERI_KOY_166
+  - first:
+      213: 7419012993820258946
+    second: FIGHT_YERI_KOY_167
+  - first:
+      213: 2848787474570688408
+    second: FIGHT_YERI_KOY_168
+  - first:
+      213: -7854873471815665030
+    second: FIGHT_YERI_KOY_169
+  - first:
+      213: 1577928869530093766
+    second: FIGHT_YERI_KOY_170
+  - first:
+      213: 5940076695451186788
+    second: FIGHT_YERI_KOY_171
+  - first:
+      213: 6801410322622152997
+    second: FIGHT_YERI_KOY_172
+  - first:
+      213: 5545913372346131453
+    second: FIGHT_YERI_KOY_173
+  - first:
+      213: 4757176219772855091
+    second: FIGHT_YERI_KOY_174
+  - first:
+      213: -8934045376765358059
+    second: FIGHT_YERI_KOY_175
+  - first:
+      213: -5665302449356376852
+    second: FIGHT_YERI_KOY_176
+  - first:
+      213: 610544277613755657
+    second: FIGHT_YERI_KOY_177
+  - first:
+      213: 3662124838573105928
+    second: FIGHT_YERI_KOY_178
+  - first:
+      213: -1014856331801931298
+    second: FIGHT_YERI_KOY_179
+  - first:
+      213: -3438252338795259693
+    second: FIGHT_YERI_KOY_180
+  - first:
+      213: 2288330732260410959
+    second: FIGHT_YERI_KOY_181
+  - first:
+      213: 130809646703654710
+    second: FIGHT_YERI_KOY_182
+  - first:
+      213: 4073154114023797897
+    second: FIGHT_YERI_KOY_183
+  - first:
+      213: 648523573656803338
+    second: FIGHT_YERI_KOY_184
+  - first:
+      213: -472423333173527818
+    second: FIGHT_YERI_KOY_185
+  - first:
+      213: -5568163621863125392
+    second: FIGHT_YERI_KOY_186
+  - first:
+      213: -6901655804295239477
+    second: FIGHT_YERI_KOY_187
+  - first:
+      213: 4023884383674928033
+    second: FIGHT_YERI_KOY_188
+  - first:
+      213: 61160443837682382
+    second: FIGHT_YERI_KOY_189
+  - first:
+      213: -5543285426782252681
+    second: FIGHT_YERI_KOY_190
+  - first:
+      213: -140980186361905103
+    second: FIGHT_YERI_KOY_191
+  - first:
+      213: -4323379318420954285
+    second: FIGHT_YERI_KOY_192
+  - first:
+      213: -4059765716541068161
+    second: FIGHT_YERI_KOY_193
+  - first:
+      213: -2162877901007665878
+    second: FIGHT_YERI_KOY_194
+  - first:
+      213: -3040365453721097291
+    second: FIGHT_YERI_KOY_195
+  - first:
+      213: 1936662622342332847
+    second: FIGHT_YERI_KOY_196
+  - first:
+      213: 7001560376881772283
+    second: FIGHT_YERI_KOY_197
+  - first:
+      213: 8019275845229270193
+    second: FIGHT_YERI_KOY_198
+  - first:
+      213: -6606573086941955292
+    second: FIGHT_YERI_KOY_199
+  - first:
+      213: -5955969498162473840
+    second: FIGHT_YERI_KOY_200
+  - first:
+      213: 4629408430023087072
+    second: FIGHT_YERI_KOY_201
+  - first:
+      213: -2255219575107146625
+    second: FIGHT_YERI_KOY_202
+  - first:
+      213: 4931063196387267467
+    second: FIGHT_YERI_KOY_203
+  - first:
+      213: -3500292493018458856
+    second: FIGHT_YERI_KOY_204
+  - first:
+      213: -3536531674159093559
+    second: FIGHT_YERI_KOY_205
+  - first:
+      213: 8261297505973291754
+    second: FIGHT_YERI_KOY_206
+  - first:
+      213: -8001762872137553963
+    second: FIGHT_YERI_KOY_207
+  - first:
+      213: -6039858705074343219
+    second: FIGHT_YERI_KOY_208
+  - first:
+      213: -3426282412826728832
+    second: FIGHT_YERI_KOY_209
+  - first:
+      213: 2022099445805070815
+    second: FIGHT_YERI_KOY_210
+  - first:
+      213: -6022281291018489618
+    second: FIGHT_YERI_KOY_211
+  - first:
+      213: -6864050491468559522
+    second: FIGHT_YERI_KOY_212
+  - first:
+      213: -7376610784980144905
+    second: FIGHT_YERI_KOY_213
+  - first:
+      213: -5676294746549796597
+    second: FIGHT_YERI_KOY_214
+  - first:
+      213: -4355395222829467149
+    second: FIGHT_YERI_KOY_215
+  - first:
+      213: 1999668368033370194
+    second: FIGHT_YERI_KOY_216
+  - first:
+      213: 4270511807197153508
+    second: FIGHT_YERI_KOY_217
+  - first:
+      213: -6513084494268942685
+    second: FIGHT_YERI_KOY_218
+  - first:
+      213: 6065696775871084469
+    second: FIGHT_YERI_KOY_219
+  - first:
+      213: -4947668493179719191
+    second: FIGHT_YERI_KOY_220
+  - first:
+      213: 2932085585194818187
+    second: FIGHT_YERI_KOY_221
+  - first:
+      213: 647671681548203515
+    second: FIGHT_YERI_KOY_222
+  - first:
+      213: 8373465852003571137
+    second: FIGHT_YERI_KOY_223
+  - first:
+      213: -3008681642171701601
+    second: FIGHT_YERI_KOY_224
+  - first:
+      213: -226495049213485256
+    second: FIGHT_YERI_KOY_225
+  - first:
+      213: -3115289136192614379
+    second: FIGHT_YERI_KOY_226
+  - first:
+      213: 200293670153011447
+    second: FIGHT_YERI_KOY_227
+  - first:
+      213: -116219128386557189
+    second: FIGHT_YERI_KOY_228
+  - first:
+      213: -6643120834659858487
+    second: FIGHT_YERI_KOY_229
+  - first:
+      213: 6839074910626081894
+    second: FIGHT_YERI_KOY_230
+  - first:
+      213: 1555839378787794382
+    second: FIGHT_YERI_KOY_231
+  - first:
+      213: -8100334513512929495
+    second: FIGHT_YERI_KOY_232
+  - first:
+      213: -6087302472692005490
+    second: FIGHT_YERI_KOY_233
+  - first:
+      213: 2398866935970099604
+    second: FIGHT_YERI_KOY_234
+  - first:
+      213: 7792888056738615148
+    second: FIGHT_YERI_KOY_235
+  - first:
+      213: -6909063978567077677
+    second: FIGHT_YERI_KOY_236
+  - first:
+      213: 7408758915888679812
+    second: FIGHT_YERI_KOY_237
+  - first:
+      213: 3687365660449103545
+    second: FIGHT_YERI_KOY_238
+  - first:
+      213: 3910970831060823213
+    second: FIGHT_YERI_KOY_239
+  - first:
+      213: -408882068479518529
+    second: FIGHT_YERI_KOY_240
+  - first:
+      213: 6665218092290781026
+    second: FIGHT_YERI_KOY_241
+  - first:
+      213: 3217445802015610023
+    second: FIGHT_YERI_KOY_242
+  - first:
+      213: -2603691586331211212
+    second: FIGHT_YERI_KOY_243
+  - first:
+      213: -8395796204162863025
+    second: FIGHT_YERI_KOY_244
+  - first:
+      213: -6866919253654284543
+    second: FIGHT_YERI_KOY_245
+  - first:
+      213: -285048642555328535
+    second: FIGHT_YERI_KOY_246
+  - first:
+      213: -607945500448516372
+    second: FIGHT_YERI_KOY_247
+  - first:
+      213: -2100301645694636175
+    second: FIGHT_YERI_KOY_248
+  - first:
+      213: -7041669126571239312
+    second: FIGHT_YERI_KOY_249
+  - first:
+      213: 3442136569558448552
+    second: FIGHT_YERI_KOY_250
+  - first:
+      213: -3916908509931159748
+    second: FIGHT_YERI_KOY_251
+  - first:
+      213: -6959574333719128486
+    second: FIGHT_YERI_KOY_252
+  - first:
+      213: -6166896903309430977
+    second: FIGHT_YERI_KOY_253
+  - first:
+      213: 947586568793631808
+    second: FIGHT_YERI_KOY_254
+  - first:
+      213: 5079541332959467281
+    second: FIGHT_YERI_KOY_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e880b69db5e2ef0800000000000000
+      internalID: -131066349785411942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5f31f0afd36f70800000000000000
+      internalID: 9179426347846426190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b81605ff538c540800000000000000
+      internalID: 5028328354640661277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf5655e442883d0800000000000000
+      internalID: -3204271216015311843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d753a69a7120f0800000000000000
+      internalID: -1143498042971270370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea583e19e368b540800000000000000
+      internalID: 5023875237217327854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9c7847bcfac130800000000000000
+      internalID: 3587957917279362619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7a93062b396f830800000000000000
+      internalID: 4104630504722638835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d095c4227d50db40800000000000000
+      internalID: 5462969092824994009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c8b255cc1b5a080800000000000000
+      internalID: -9176733174537155580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558018792c475f20800000000000000
+      internalID: 3411278983748158807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9164e272b5ece8770800000000000000
+      internalID: 8615050028101027353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40074fbb6c3a3580800000000000000
+      internalID: -8846692084547649458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81445d10ff00e55b0800000000000000
+      internalID: -5377859809786379240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2718fcf4fb3ae2d60800000000000000
+      internalID: 7867405641135915378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b663eb720da6ea600800000000000000
+      internalID: 481439652427740779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65616f7521c4c0e20800000000000000
+      internalID: 3318110667134080598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89282e69d896c4920800000000000000
+      internalID: 2975869510627787416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1772d4352c6e8a0800000000000000
+      internalID: -6276115367661702722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d8224b556f74720800000000000000
+      internalID: 2830501738780462485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fde849ae0975010800000000000000
+      internalID: 1177569164769812334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd272e9df8d991d60800000000000000
+      internalID: 7861487865713291999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc9570fddcbdf4f0800000000000000
+      internalID: -793270297939305227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810ae46d78ddd0010800000000000000
+      internalID: 1156824254789885976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae23dd2fb2156a0800000000000000
+      internalID: -6462335668206769652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d289339c50e6be840800000000000000
+      internalID: 5254414361387309101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf7584b2edd31580800000000000000
+      internalID: -8857492076346638388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604c15f455a46320800000000000000
+      internalID: 2550345073306648677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d739ca95f2a9542a0800000000000000
+      internalID: -6753822538013568131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f311aa02e092770800000000000000
+      internalID: 8586409698013560627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a9a50ea1277f90800000000000000
+      internalID: -6956054068147410893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4701707f2fe77db70800000000000000
+      internalID: 8923740768649547892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432326371c6584e0800000000000000
+      internalID: -1980057614211144887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb74ff8f24221c0800000000000000
+      internalID: -4529984637979083304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07432cfe544593c0800000000000000
+      internalID: -4353498290035931379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c86c0f7f2f6eea00800000000000000
+      internalID: 787689234622081217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66fcf617edbda6d0800000000000000
+      internalID: -2977514978401257874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea274cf6ba7da3540800000000000000
+      internalID: 4988536668580770478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb4a6f041e84300800000000000000
+      internalID: 236686649569098764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebc80839667dd1c0800000000000000
+      internalID: -4477292260252660761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7394e9e267ad18320800000000000000
+      internalID: 2558566264446273847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56ca85ca0da87e0800000000000000
+      internalID: -1762366865521482319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57660eed984ac64b0800000000000000
+      internalID: -5445796937341049227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d921f17d95d67890800000000000000
+      internalID: -7460540860494435883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad9c3263bf9c9a0800000000000000
+      internalID: -6212158001033651585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2d8ef026ea10e0800000000000000
+      internalID: -2298271630435210436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e89a8628c5eb50800000000000000
+      internalID: 6621918894977770011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d51cf9cea2690400800000000000000
+      internalID: 290872153794680275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56984a1f8042fa2c0800000000000000
+      internalID: -4418273088594736795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f6f95260326e740800000000000000
+      internalID: 5180866930644315925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636d0ed24d608610800000000000000
+      internalID: 1621415999814067048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e642ba0dec8f560800000000000000
+      internalID: 7347850187674775110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78ca5f45c9294c0800000000000000
+      internalID: -4282188406963009544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d687173796c28f10800000000000000
+      internalID: 2270595514914801364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3cd7d6d9d8e8270800000000000000
+      internalID: 8254690874303038443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c7b4dd280b5800800000000000000
+      internalID: 602083968119456467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350853b8da9791ed0800000000000000
+      internalID: -2442787536599941037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698e10ae9daa9aca0800000000000000
+      internalID: -6005080775211226986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd6d74ad51a3b4c0800000000000000
+      internalID: -4272894197880754747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efa92c17fcc4adc0800000000000000
+      internalID: -3628550038052294687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ab4e70eda2b4d10800000000000000
+      internalID: 2110827983456745984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be6fdf0b6476f50800000000000000
+      internalID: 6874541082193357651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f586bffd5b528180800000000000000
+      internalID: -9114622236564224521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80f32b0a0827f60800000000000000
+      internalID: 8030622513228613867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184e5368a78bbaf0800000000000000
+      internalID: -379560586291296232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4cf9ef6356c8720800000000000000
+      internalID: 2849763951093204176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad041ace8301000800000000000000
+      internalID: 4566188596189874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0766fef0cb82c34e0800000000000000
+      internalID: -2000679346273032592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1812810f0287ced0800000000000000
+      internalID: -2393801675962705892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9da630f2fd74060800000000000000
+      internalID: 6937759144001329611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aee8dcdd0b6b1530800000000000000
+      internalID: 3826770015665319588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9714bca0e1ea35780800000000000000
+      internalID: -8695415011468951175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49269ac64b119a20800000000000000
+      internalID: 3067262812076517710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f277c35f639877f0800000000000000
+      internalID: -614579242779839751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21089ab655310c7b0800000000000000
+      internalID: -5206139911640874990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783a26eb0ebf01330800000000000000
+      internalID: 3679717838247076743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea70d72e0c9a4a0800000000000000
+      internalID: -6581517301432472041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c7ace1a4eb9970800000000000000
+      internalID: 8762848884090716653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919385fa1b0ae1f0800000000000000
+      internalID: -1014986555602529902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d6a55865c56f380800000000000000
+      internalID: -8937854883795931805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3086f40287d6b30800000000000000
+      internalID: 4282210900865713108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4676e5d1283a80800000000000000
+      internalID: -8486996295201436653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f2e4dea4efc480800000000000000
+      internalID: -8876624900976873134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f1c573c81f0230800000000000000
+      internalID: 3607129054320390486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9d08ed1475e2a20800000000000000
+      internalID: 3039462738939140607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510eeada854e7f3d0800000000000000
+      internalID: -3172816342937051115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a1bf95594c0240800000000000000
+      internalID: 4759259538324038023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7fba6d0b8347b0800000000000000
+      internalID: -5241192651587354689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d52de5996c1390800000000000000
+      internalID: -7846280358136524670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7361fd386081bd2e0800000000000000
+      internalID: -2100058384976898505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0fa36754f682b10800000000000000
+      internalID: 1956936382219481263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8fd31e0f320330800000000000000
+      internalID: 3675569575583256452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27791e94b0bdd7010800000000000000
+      internalID: 1188346718226323314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3644048c4d5d43a0800000000000000
+      internalID: -6679580089106807236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba9b96a7532b6140800000000000000
+      internalID: 4713900294337698491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dcb553b064461d0800000000000000
+      internalID: -3358482408157754010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c52d9958d8887290800000000000000
+      internalID: -7892407884169009727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e01e5e7a3c24010800000000000000
+      internalID: 1171713978953436688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5abaaae06c7a5c0800000000000000
+      internalID: -4204173960831851059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b33ae5b46c89220800000000000000
+      internalID: 2492960420762172271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08db7814a0d8a8e20800000000000000
+      internalID: 3353647947719359872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3b42812bb2ce750800000000000000
+      internalID: 6335486819712676823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1bf4da8c3c835e0800000000000000
+      internalID: -1929577173659700787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8e2e3680ee58d0800000000000000
+      internalID: -2855598246532837401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66953630d8edae6d0800000000000000
+      internalID: -2960309107814082202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdcedfad57981270800000000000000
+      internalID: 8221487548403207608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830a7fcf88d7a220800000000000000
+      internalID: 2497202630573032326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e73ee1a5e09cfd90800000000000000
+      internalID: -7062610799685126168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f628d3b2c2a8890800000000000000
+      internalID: -7455097668931260617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe66c7c6641a4190800000000000000
+      internalID: -7977541358262522127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aab18881d4efcb0800000000000000
+      internalID: -4828336982736524676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d240f449a55b68f0800000000000000
+      internalID: -546248744300952874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b91168579fa2a670800000000000000
+      internalID: 8548588107260303798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c59cc7a6a4400a0800000000000000
+      internalID: -6916321306513679343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f82f5d9dcfdca510800000000000000
+      internalID: 1561869244992268531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8538842782ed80800000000000000
+      internalID: -8222861378651321838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358eb920305c2a220800000000000000
+      internalID: 2495773760236021843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1732d1b188f759000800000000000000
+      internalID: 42079994077062001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39bbd3b466dd5620800000000000000
+      internalID: 2764601474277947711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e9606d3a1118b0800000000000000
+      internalID: -5183332845213849863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ef94ccde85194d0800000000000000
+      internalID: -3129622487687889285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2579125f64032fa0800000000000000
+      internalID: -5826808616722008787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d1616f844e8110800000000000000
+      internalID: 1265023927942501793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e32a27ab74d0d30800000000000000
+      internalID: 4399251277123567183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa7f8d5d0a47920800000000000000
+      internalID: 2987189293182069472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45fa25770e6b76d0800000000000000
+      internalID: -2991676549147986610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31011eacfff1aa860800000000000000
+      internalID: 7541875709466185747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ea28c68aba0c50800000000000000
+      internalID: 6632318489303115627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442498f5a2bf05870800000000000000
+      internalID: 8669705442098233924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cbc0029e36b7ed0800000000000000
+      internalID: -2415226922237903850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1cb45f35dd4e500800000000000000
+      internalID: 424707617547076024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c685c75068a0e15a0800000000000000
+      internalID: -6548785237416191892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0303b55b7ae360800000000000000
+      internalID: 7199702562310917539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f118076d29c050800000000000000
+      internalID: 5821233913893351887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928bd22c8a568b380800000000000000
+      internalID: -8955296083539544023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaba8d17fe9790f0800000000000000
+      internalID: -1110243998933796161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7351efe7ce88110800000000000000
+      internalID: 1263519725650261936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b321f06e83ac80800000000000000
+      internalID: -8312643940182149034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2f3ca21ac01260800000000000000
+      internalID: 7066369996892351089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b239d3a3701dc70800000000000000
+      internalID: 8993977877558143788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33312e04bb526c790800000000000000
+      internalID: -7510273842416053453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e37a36ea445cca0800000000000000
+      internalID: -5997311812987044251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb25a3c9eee58060800000000000000
+      internalID: 6955227887320771575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76605f4a5389aa630800000000000000
+      internalID: 3939128180257130087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8483418236eed0800000000000000
+      internalID: -2385163421881168197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7baf7215c46eb50800000000000000
+      internalID: 6622064213541697496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473e8af67ccf5caf0800000000000000
+      internalID: -376617060313537676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fea8b099c83f7f90800000000000000
+      internalID: -6953776861269152011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afa7a262282522f0800000000000000
+      internalID: -998347614243541088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b53dce0955b7f8b0800000000000000
+      internalID: -5118423057378232905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134d342969996d30800000000000000
+      internalID: 4425236785726833428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f87819e2dd76270800000000000000
+      internalID: 8243800835004796736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a535707ca069d0800000000000000
+      internalID: -2783034970712202650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b3c05cb1822fbe0800000000000000
+      internalID: -1445048430697366768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd52974fb4c6168d0800000000000000
+      internalID: -2854881615296256547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db5fe8b7bf46250800000000000000
+      internalID: 5937146716879174963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c69cd86b66033e0800000000000000
+      internalID: -2076046493968929643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e51ae6109cf93d50800000000000000
+      internalID: 6717678014989735396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84eee573e247a1b0800000000000000
+      internalID: -5645470063182027636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db68d61e437f0b610800000000000000
+      internalID: 1635078471227901629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4425205d09c67d850800000000000000
+      internalID: 6401704764635238980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fdbe7dd154d2fa0800000000000000
+      internalID: -5823922748641255551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934dda9f36e1bd60800000000000000
+      internalID: 7904351981867451290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b1cbe42c1cb5810800000000000000
+      internalID: 1755209520079706954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c7ecc12d5ce0ea0800000000000000
+      internalID: -5904564555219043258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da5cac67f4585fd0800000000000000
+      internalID: -2353037383644194094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ff264c66ed6acb0800000000000000
+      internalID: -4852947015482278027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f9a0a201a5f660800000000000000
+      internalID: 7419012993820258946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_168
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973e565d1de88720800000000000000
+      internalID: 2848787474570688408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab9ccb132edf290800000000000000
+      internalID: -7854873471815665030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8cc2552fde5e510800000000000000
+      internalID: 1577928869530093766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_171
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466b1fa58446f6250800000000000000
+      internalID: 5940076695451186788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521819b27a6736e50800000000000000
+      internalID: 6801410322622152997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_173
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a7c124da07fc40800000000000000
+      internalID: 5545913372346131453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3332f793192e40240800000000000000
+      internalID: 4757176219772855091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_175
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101eae7015e30480800000000000000
+      internalID: -8934045376765358059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce476f8307dc061b0800000000000000
+      internalID: -5665302449356376852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90db0d229c6197800800000000000000
+      internalID: 610544277613755657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803e84e432b72d230800000000000000
+      internalID: 3662124838573105928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_179
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d3ec0b818ae1f0800000000000000
+      internalID: -1014856331801931298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d3f9e6bfd840d0800000000000000
+      internalID: -3438252338795259693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46cdf84da8c1cf10800000000000000
+      internalID: 2288330732260410959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63737fc3eaab0d100800000000000000
+      internalID: 130809646703654710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9843fc11610c68830800000000000000
+      internalID: 4073154114023797897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08d74411c4000900800000000000000
+      internalID: 648523573656803338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_185
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faf5924b7d9179f0800000000000000
+      internalID: -472423333173527818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e8893ffa8e9b2b0800000000000000
+      internalID: -5568163621863125392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_187
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc828fecc946830a0800000000000000
+      internalID: -6901655804295239477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab8f2a0785b7d730800000000000000
+      internalID: 4023884383674928033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_189
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21041891949d000800000000000000
+      internalID: 61160443837682382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_190
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7715b00264b4213b0800000000000000
+      internalID: -5543285426782252681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_191
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c78774432b0ef0800000000000000
+      internalID: -140980186361905103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353af388a654004c0800000000000000
+      internalID: -4323379318420954285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_193
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ca2422790d8a7c0800000000000000
+      internalID: -4059765716541068161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2545e9220aebf1e0800000000000000
+      internalID: -2162877901007665878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_195
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bba5977ab37ec5d0800000000000000
+      internalID: -3040365453721097291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1cd76e46860ea10800000000000000
+      internalID: 1936662622342332847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6fc71211a8a2160800000000000000
+      internalID: 7001560376881772283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4d2cea4e03a4f60800000000000000
+      internalID: 8019275845229270193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3b22d7ccb054a0800000000000000
+      internalID: -6606573086941955292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094d6f82c45285da0800000000000000
+      internalID: -5955969498162473840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_201
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e399bf7076fe3040800000000000000
+      internalID: 4629408430023087072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c2b3fbeb9d3b0e0800000000000000
+      internalID: -2255219575107146625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_203
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b835aa9e9d7ae6440800000000000000
+      internalID: 4931063196387267467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151bafd5867c6fc0800000000000000
+      internalID: -3500292493018458856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_205
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c864d00e27bbeec0800000000000000
+      internalID: -3536531674159093559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_206
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeacb5bbf4606a270800000000000000
+      internalID: 8261297505973291754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_207
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7e45d101704f090800000000000000
+      internalID: -8001762872137553963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc23e7e128c1e2ca0800000000000000
+      internalID: -6039858705074343219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_209
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0866b4b7c466370d0800000000000000
+      internalID: -3426282412826728832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9b9bf7bb0ff0c10800000000000000
+      internalID: 2022099445805070815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0bc5fb21f8c6ca0800000000000000
+      internalID: -6022281291018489618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bcbaff17efdb0a0800000000000000
+      internalID: -6864050491468559522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc61f2f29301a990800000000000000
+      internalID: -7376610784980144905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01cb779000c931b0800000000000000
+      internalID: -5676294746549796597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_215
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f0d6ee178e83c0800000000000000
+      internalID: -4355395222829467149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_216
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d63939cf30cb10800000000000000
+      internalID: 1999668368033370194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_217
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8091dccd7e34b30800000000000000
+      internalID: 4270511807197153508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6bef60920ec95a0800000000000000
+      internalID: -6513084494268942685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_219
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b73709841fad2450800000000000000
+      internalID: 6065696775871084469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e171a528b9565bb0800000000000000
+      internalID: -4947668493179719191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_221
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a949c0e4cd0b820800000000000000
+      internalID: 2932085585194818187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_222
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b2cd76fdfcf800800000000000000
+      internalID: 647671681548203515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_223
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5598fe3d6843470800000000000000
+      internalID: 8373465852003571137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ed14bcf30f36d0800000000000000
+      internalID: -3008681642171701601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_225
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fde38e3f35bdcf0800000000000000
+      internalID: -226495049213485256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101b90490544c4d0800000000000000
+      internalID: -3115289136192614379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ca34280697c200800000000000000
+      internalID: 200293670153011447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfae968815b136ef0800000000000000
+      internalID: -116219128386557189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74a123cc4eec3a0800000000000000
+      internalID: -6643120834659858487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_230
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c6720756649ee50800000000000000
+      internalID: 6839074910626081894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_231
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdf53cfba3779510800000000000000
+      internalID: 1555839378787794382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927a9386da4d59f80800000000000000
+      internalID: -8100334513512929495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_233
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8506da27ae858ba0800000000000000
+      internalID: -6087302472692005490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_234
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917dedb4cc7a4120800000000000000
+      internalID: 2398866935970099604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_235
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0a4c2666e52c60800000000000000
+      internalID: 7792888056738615148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0ff03dae21e10a0800000000000000
+      internalID: -6909063978567077677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_237
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8d001bf231d660800000000000000
+      internalID: 7408758915888679812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_238
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beda0c18872c2330800000000000000
+      internalID: 3687365660449103545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_239
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac6b48ef3f864630800000000000000
+      internalID: 3910970831060823213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb85041dceb535af0800000000000000
+      internalID: -408882068479518529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_241
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26faf758a8c9f7c50800000000000000
+      internalID: 6665218092290781026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_242
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4563109e9a6ac20800000000000000
+      internalID: 3217445802015610023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_243
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a0e041c44dddbd0800000000000000
+      internalID: -2603691586331211212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40bc4cc5d32c7b80800000000000000
+      internalID: -8395796204162863025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_245
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10755a0425dc3b0a0800000000000000
+      internalID: -6866919253654284543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e748c415cd4b0cf0800000000000000
+      internalID: -285048642555328535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_247
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce618f2d9c42097f0800000000000000
+      internalID: -607945500448516372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_248
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe337f7ca3ad2e0800000000000000
+      internalID: -2100301645694636175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_249
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078d2ecdc37f64e90800000000000000
+      internalID: -7041669126571239312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_250
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9b9e809fce4cf20800000000000000
+      internalID: 3442136569558448552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_251
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f39df767854a9c0800000000000000
+      internalID: -3916908509931159748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_252
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56deb25400aa6f90800000000000000
+      internalID: -6959574333719128486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_253
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe8c7a0f7ca6aa0800000000000000
+      internalID: -6166896903309430977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_254
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c20eab6f0862d00800000000000000
+      internalID: 947586568793631808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FIGHT_YERI_KOY_255
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11796f40ee72e7640800000000000000
+      internalID: 5079541332959467281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FIGHT_YERI_KOY_243: -2603691586331211212
+      FIGHT_YERI_KOY_28: -6753822538013568131
+      FIGHT_YERI_KOY_2: 5028328354640661277
+      FIGHT_YERI_KOY_101: 6335486819712676823
+      FIGHT_YERI_KOY_148: -998347614243541088
+      FIGHT_YERI_KOY_122: 1265023927942501793
+      FIGHT_YERI_KOY_107: -7062610799685126168
+      FIGHT_YERI_KOY_69: 6937759144001329611
+      FIGHT_YERI_KOY_182: 130809646703654710
+      FIGHT_YERI_KOY_189: 61160443837682382
+      FIGHT_YERI_KOY_193: -4059765716541068161
+      FIGHT_YERI_KOY_45: -2298271630435210436
+      FIGHT_YERI_KOY_40: 2558566264446273847
+      FIGHT_YERI_KOY_203: 4931063196387267467
+      FIGHT_YERI_KOY_153: -1445048430697366768
+      FIGHT_YERI_KOY_80: 4282210900865713108
+      FIGHT_YERI_KOY_22: -793270297939305227
+      FIGHT_YERI_KOY_17: 2975869510627787416
+      FIGHT_YERI_KOY_115: -8222861378651321838
+      FIGHT_YERI_KOY_111: -546248744300952874
+      FIGHT_YERI_KOY_192: -4323379318420954285
+      FIGHT_YERI_KOY_187: -6901655804295239477
+      FIGHT_YERI_KOY_241: 6665218092290781026
+      FIGHT_YERI_KOY_25: 5254414361387309101
+      FIGHT_YERI_KOY_15: 481439652427740779
+      FIGHT_YERI_KOY_78: -1014986555602529902
+      FIGHT_YERI_KOY_56: -2442787536599941037
+      FIGHT_YERI_KOY_116: 2495773760236021843
+      FIGHT_YERI_KOY_32: -1980057614211144887
+      FIGHT_YERI_KOY_150: 4425236785726833428
+      FIGHT_YERI_KOY_152: -2783034970712202650
+      FIGHT_YERI_KOY_159: 1635078471227901629
+      FIGHT_YERI_KOY_27: 2550345073306648677
+      FIGHT_YERI_KOY_91: 3675569575583256452
+      FIGHT_YERI_KOY_9: -9176733174537155580
+      FIGHT_YERI_KOY_184: 648523573656803338
+      FIGHT_YERI_KOY_134: -8955296083539544023
+      FIGHT_YERI_KOY_249: -7041669126571239312
+      FIGHT_YERI_KOY_67: -2000679346273032592
+      FIGHT_YERI_KOY_194: -2162877901007665878
+      FIGHT_YERI_KOY_239: 3910970831060823213
+      FIGHT_YERI_KOY_246: -285048642555328535
+      FIGHT_YERI_KOY_3: -3204271216015311843
+      FIGHT_YERI_KOY_71: -8695415011468951175
+      FIGHT_YERI_KOY_165: -2353037383644194094
+      FIGHT_YERI_KOY_52: -4282188406963009544
+      FIGHT_YERI_KOY_220: -4947668493179719191
+      FIGHT_YERI_KOY_74: -5206139911640874990
+      FIGHT_YERI_KOY_130: 424707617547076024
+      FIGHT_YERI_KOY_196: 1936662622342332847
+      FIGHT_YERI_KOY_83: 3607129054320390486
+      FIGHT_YERI_KOY_84: 3039462738939140607
+      FIGHT_YERI_KOY_171: 5940076695451186788
+      FIGHT_YERI_KOY_221: 2932085585194818187
+      FIGHT_YERI_KOY_135: -1110243998933796161
+      FIGHT_YERI_KOY_98: -4204173960831851059
+      FIGHT_YERI_KOY_66: 4566188596189874
+      FIGHT_YERI_KOY_51: 7347850187674775110
+      FIGHT_YERI_KOY_238: 3687365660449103545
+      FIGHT_YERI_KOY_108: -7455097668931260617
+      FIGHT_YERI_KOY_33: -4529984637979083304
+      FIGHT_YERI_KOY_10: 3411278983748158807
+      FIGHT_YERI_KOY_136: 1263519725650261936
+      FIGHT_YERI_KOY_214: -5676294746549796597
+      FIGHT_YERI_KOY_47: 290872153794680275
+      FIGHT_YERI_KOY_1: 9179426347846426190
+      FIGHT_YERI_KOY_164: -5904564555219043258
+      FIGHT_YERI_KOY_36: -2977514978401257874
+      FIGHT_YERI_KOY_119: -5183332845213849863
+      FIGHT_YERI_KOY_63: 8030622513228613867
+      FIGHT_YERI_KOY_23: 1156824254789885976
+      FIGHT_YERI_KOY_170: 1577928869530093766
+      FIGHT_YERI_KOY_46: 6621918894977770011
+      FIGHT_YERI_KOY_99: 2492960420762172271
+      FIGHT_YERI_KOY_86: 4759259538324038023
+      FIGHT_YERI_KOY_186: -5568163621863125392
+      FIGHT_YERI_KOY_90: 1956936382219481263
+      FIGHT_YERI_KOY_208: -6039858705074343219
+      FIGHT_YERI_KOY_144: -2385163421881168197
+      FIGHT_YERI_KOY_230: 6839074910626081894
+      FIGHT_YERI_KOY_18: -6276115367661702722
+      FIGHT_YERI_KOY_205: -3536531674159093559
+      FIGHT_YERI_KOY_244: -8395796204162863025
+      FIGHT_YERI_KOY_162: 7904351981867451290
+      FIGHT_YERI_KOY_82: -8876624900976873134
+      FIGHT_YERI_KOY_169: -7854873471815665030
+      FIGHT_YERI_KOY_11: 8615050028101027353
+      FIGHT_YERI_KOY_132: 7199702562310917539
+      FIGHT_YERI_KOY_218: -6513084494268942685
+      FIGHT_YERI_KOY_21: 7861487865713291999
+      FIGHT_YERI_KOY_97: 1171713978953436688
+      FIGHT_YERI_KOY_65: 2849763951093204176
+      FIGHT_YERI_KOY_201: 4629408430023087072
+      FIGHT_YERI_KOY_126: 7541875709466185747
+      FIGHT_YERI_KOY_123: 4399251277123567183
+      FIGHT_YERI_KOY_211: -6022281291018489618
+      FIGHT_YERI_KOY_129: -2415226922237903850
+      FIGHT_YERI_KOY_245: -6866919253654284543
+      FIGHT_YERI_KOY_216: 1999668368033370194
+      FIGHT_YERI_KOY_29: 8586409698013560627
+      FIGHT_YERI_KOY_206: 8261297505973291754
+      FIGHT_YERI_KOY_76: -6581517301432472041
+      FIGHT_YERI_KOY_139: 8993977877558143788
+      FIGHT_YERI_KOY_72: 3067262812076517710
+      FIGHT_YERI_KOY_100: 3353647947719359872
+      FIGHT_YERI_KOY_224: -3008681642171701601
+      FIGHT_YERI_KOY_34: -4353498290035931379
+      FIGHT_YERI_KOY_198: 8019275845229270193
+      FIGHT_YERI_KOY_8: 5462969092824994009
+      FIGHT_YERI_KOY_13: -5377859809786379240
+      FIGHT_YERI_KOY_113: -6916321306513679343
+      FIGHT_YERI_KOY_156: -2076046493968929643
+      FIGHT_YERI_KOY_209: -3426282412826728832
+      FIGHT_YERI_KOY_128: 8669705442098233924
+      FIGHT_YERI_KOY_229: -6643120834659858487
+      FIGHT_YERI_KOY_237: 7408758915888679812
+      FIGHT_YERI_KOY_54: 8254690874303038443
+      FIGHT_YERI_KOY_127: 6632318489303115627
+      FIGHT_YERI_KOY_149: -5118423057378232905
+      FIGHT_YERI_KOY_227: 200293670153011447
+      FIGHT_YERI_KOY_242: 3217445802015610023
+      FIGHT_YERI_KOY_7: 4104630504722638835
+      FIGHT_YERI_KOY_24: -6462335668206769652
+      FIGHT_YERI_KOY_41: -1762366865521482319
+      FIGHT_YERI_KOY_163: 1755209520079706954
+      FIGHT_YERI_KOY_183: 4073154114023797897
+      FIGHT_YERI_KOY_250: 3442136569558448552
+      FIGHT_YERI_KOY_85: -3172816342937051115
+      FIGHT_YERI_KOY_253: -6166896903309430977
+      FIGHT_YERI_KOY_55: 602083968119456467
+      FIGHT_YERI_KOY_64: -379560586291296232
+      FIGHT_YERI_KOY_145: 6622064213541697496
+      FIGHT_YERI_KOY_199: -6606573086941955292
+      FIGHT_YERI_KOY_0: -131066349785411942
+      FIGHT_YERI_KOY_188: 4023884383674928033
+      FIGHT_YERI_KOY_75: 3679717838247076743
+      FIGHT_YERI_KOY_94: 4713900294337698491
+      FIGHT_YERI_KOY_247: -607945500448516372
+      FIGHT_YERI_KOY_176: -5665302449356376852
+      FIGHT_YERI_KOY_158: -5645470063182027636
+      FIGHT_YERI_KOY_87: -5241192651587354689
+      FIGHT_YERI_KOY_225: -226495049213485256
+      FIGHT_YERI_KOY_181: 2288330732260410959
+      FIGHT_YERI_KOY_167: 7419012993820258946
+      FIGHT_YERI_KOY_26: -8857492076346638388
+      FIGHT_YERI_KOY_207: -8001762872137553963
+      FIGHT_YERI_KOY_231: 1555839378787794382
+      FIGHT_YERI_KOY_38: 236686649569098764
+      FIGHT_YERI_KOY_131: -6548785237416191892
+      FIGHT_YERI_KOY_157: 6717678014989735396
+      FIGHT_YERI_KOY_95: -3358482408157754010
+      FIGHT_YERI_KOY_120: -3129622487687889285
+      FIGHT_YERI_KOY_151: 8243800835004796736
+      FIGHT_YERI_KOY_146: -376617060313537676
+      FIGHT_YERI_KOY_73: -614579242779839751
+      FIGHT_YERI_KOY_226: -3115289136192614379
+      FIGHT_YERI_KOY_93: -6679580089106807236
+      FIGHT_YERI_KOY_102: -1929577173659700787
+      FIGHT_YERI_KOY_112: 8548588107260303798
+      FIGHT_YERI_KOY_185: -472423333173527818
+      FIGHT_YERI_KOY_77: 8762848884090716653
+      FIGHT_YERI_KOY_251: -3916908509931159748
+      FIGHT_YERI_KOY_60: 2110827983456745984
+      FIGHT_YERI_KOY_190: -5543285426782252681
+      FIGHT_YERI_KOY_79: -8937854883795931805
+      FIGHT_YERI_KOY_62: -9114622236564224521
+      FIGHT_YERI_KOY_212: -6864050491468559522
+      FIGHT_YERI_KOY_58: -4272894197880754747
+      FIGHT_YERI_KOY_106: 2497202630573032326
+      FIGHT_YERI_KOY_213: -7376610784980144905
+      FIGHT_YERI_KOY_147: -6953776861269152011
+      FIGHT_YERI_KOY_39: -4477292260252660761
+      FIGHT_YERI_KOY_180: -3438252338795259693
+      FIGHT_YERI_KOY_195: -3040365453721097291
+      FIGHT_YERI_KOY_43: -7460540860494435883
+      FIGHT_YERI_KOY_141: -5997311812987044251
+      FIGHT_YERI_KOY_252: -6959574333719128486
+      FIGHT_YERI_KOY_228: -116219128386557189
+      FIGHT_YERI_KOY_103: -2855598246532837401
+      FIGHT_YERI_KOY_37: 4988536668580770478
+      FIGHT_YERI_KOY_61: 6874541082193357651
+      FIGHT_YERI_KOY_174: 4757176219772855091
+      FIGHT_YERI_KOY_210: 2022099445805070815
+      FIGHT_YERI_KOY_137: -8312643940182149034
+      FIGHT_YERI_KOY_143: 3939128180257130087
+      FIGHT_YERI_KOY_30: -6956054068147410893
+      FIGHT_YERI_KOY_117: 42079994077062001
+      FIGHT_YERI_KOY_89: -2100058384976898505
+      FIGHT_YERI_KOY_109: -7977541358262522127
+      FIGHT_YERI_KOY_140: -7510273842416053453
+      FIGHT_YERI_KOY_255: 5079541332959467281
+      FIGHT_YERI_KOY_155: 5937146716879174963
+      FIGHT_YERI_KOY_191: -140980186361905103
+      FIGHT_YERI_KOY_81: -8486996295201436653
+      FIGHT_YERI_KOY_161: -5823922748641255551
+      FIGHT_YERI_KOY_233: -6087302472692005490
+      FIGHT_YERI_KOY_5: 5023875237217327854
+      FIGHT_YERI_KOY_142: 6955227887320771575
+      FIGHT_YERI_KOY_160: 6401704764635238980
+      FIGHT_YERI_KOY_175: -8934045376765358059
+      FIGHT_YERI_KOY_202: -2255219575107146625
+      FIGHT_YERI_KOY_154: -2854881615296256547
+      FIGHT_YERI_KOY_240: -408882068479518529
+      FIGHT_YERI_KOY_70: 3826770015665319588
+      FIGHT_YERI_KOY_96: -7892407884169009727
+      FIGHT_YERI_KOY_44: -6212158001033651585
+      FIGHT_YERI_KOY_59: -3628550038052294687
+      FIGHT_YERI_KOY_68: -2393801675962705892
+      FIGHT_YERI_KOY_53: 2270595514914801364
+      FIGHT_YERI_KOY_124: 2987189293182069472
+      FIGHT_YERI_KOY_104: -2960309107814082202
+      FIGHT_YERI_KOY_50: 1621415999814067048
+      FIGHT_YERI_KOY_173: 5545913372346131453
+      FIGHT_YERI_KOY_248: -2100301645694636175
+      FIGHT_YERI_KOY_125: -2991676549147986610
+      FIGHT_YERI_KOY_172: 6801410322622152997
+      FIGHT_YERI_KOY_88: -7846280358136524670
+      FIGHT_YERI_KOY_168: 2848787474570688408
+      FIGHT_YERI_KOY_48: -4418273088594736795
+      FIGHT_YERI_KOY_49: 5180866930644315925
+      FIGHT_YERI_KOY_219: 6065696775871084469
+      FIGHT_YERI_KOY_133: 5821233913893351887
+      FIGHT_YERI_KOY_6: 3587957917279362619
+      FIGHT_YERI_KOY_121: -5826808616722008787
+      FIGHT_YERI_KOY_178: 3662124838573105928
+      FIGHT_YERI_KOY_16: 3318110667134080598
+      FIGHT_YERI_KOY_179: -1014856331801931298
+      FIGHT_YERI_KOY_19: 2830501738780462485
+      FIGHT_YERI_KOY_222: 647671681548203515
+      FIGHT_YERI_KOY_110: -4828336982736524676
+      FIGHT_YERI_KOY_114: 1561869244992268531
+      FIGHT_YERI_KOY_12: -8846692084547649458
+      FIGHT_YERI_KOY_20: 1177569164769812334
+      FIGHT_YERI_KOY_138: 7066369996892351089
+      FIGHT_YERI_KOY_31: 8923740768649547892
+      FIGHT_YERI_KOY_254: 947586568793631808
+      FIGHT_YERI_KOY_57: -6005080775211226986
+      FIGHT_YERI_KOY_217: 4270511807197153508
+      FIGHT_YERI_KOY_42: -5445796937341049227
+      FIGHT_YERI_KOY_223: 8373465852003571137
+      FIGHT_YERI_KOY_234: 2398866935970099604
+      FIGHT_YERI_KOY_236: -6909063978567077677
+      FIGHT_YERI_KOY_197: 7001560376881772283
+      FIGHT_YERI_KOY_35: 787689234622081217
+      FIGHT_YERI_KOY_200: -5955969498162473840
+      FIGHT_YERI_KOY_4: -1143498042971270370
+      FIGHT_YERI_KOY_105: 8221487548403207608
+      FIGHT_YERI_KOY_177: 610544277613755657
+      FIGHT_YERI_KOY_215: -4355395222829467149
+      FIGHT_YERI_KOY_14: 7867405641135915378
+      FIGHT_YERI_KOY_232: -8100334513512929495
+      FIGHT_YERI_KOY_118: 2764601474277947711
+      FIGHT_YERI_KOY_166: -4852947015482278027
+      FIGHT_YERI_KOY_204: -3500292493018458856
+      FIGHT_YERI_KOY_235: 7792888056738615148
+      FIGHT_YERI_KOY_92: 1188346718226323314
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
